@@ -21,7 +21,8 @@ This showcases player input integration (voice/mic) and basic audio analysis for
 
 ## Status
 
-⚠️ **This project is currently in progress**  
-I’m preparing the initial prototype. Source files, media, and setup instructions will be added soon. Follow the commits for updates!
+⚠️ **This project is currently in progress.**  
+
+*Stay tuned! This repository will be updated with design diagrams, prototype videos, and source files as development advances.*
 
 
