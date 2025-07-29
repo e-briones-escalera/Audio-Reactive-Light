@@ -1,4 +1,4 @@
-## Audio-Reactive-Light (Mic Input)
+## Audio Reactive Light (Mic Input)
 
 A tiny Unreal Engine demo where the player speaks into the microphone and an in‑game light reacts in real time. 
 This showcases player input integration (voice/mic) and basic audio analysis for gameplay feedback, useful as a building block for stealth mechanics (e.g., speaking too loudly brightens a light or raises an alert meter).
